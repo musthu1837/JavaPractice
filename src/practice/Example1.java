@@ -1,13 +1,7 @@
 package practice;
 
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.PriorityQueue;
-import java.util.Queue;
-import java.util.Vector;
+import java.io.IOException;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class Example1{
